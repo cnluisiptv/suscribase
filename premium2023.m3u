@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zOiOeqG.png" group-title="Gratis",CREDITOS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zOiOeqG.png" group-title="Gratis", CREDITOS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 #EXTINF:-1 tvg-id="" tvg-name="DEP HD: ESPN 1 (ARG)" tvg-logo="http://assets.stickpng.com/images/5847f1b0cef1014c0b5e485d.png" group-title="ESPN HD/SD",DEP HD: ESPN 1 (ARG)
 http://flash.shortgod.com/perualmando/tv1.php?id=16
